@@ -1,0 +1,9 @@
+.venv/
+__pycache__/
+.DS_Store
+.ipynb_checkpoints/
+
+# The raw dataset is not redistributed (license is unclear). See README for download steps.
+data/raw/*.csv
+# Do not publish a row-level cleaned copy of the dataset either.
+data/processed/*.csv
