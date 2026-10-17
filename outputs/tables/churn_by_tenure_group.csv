@@ -1,0 +1,5 @@
+tenure_group,customers,churned,churn_rate_pct
+0-12 mo,2175,1037,47.7
+13-24 mo,1024,294,28.7
+25-48 mo,1594,325,20.4
+49-72 mo,2239,213,9.5

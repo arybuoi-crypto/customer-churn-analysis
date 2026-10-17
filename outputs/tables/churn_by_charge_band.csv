@@ -1,0 +1,5 @@
+charge_band,customers,churned,churn_rate_pct
+Under $35,1729,189,10.9
+$35-70,1722,413,24.0
+$70-90,1842,697,37.8
+Over $90,1739,570,32.8
